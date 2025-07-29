@@ -1,0 +1,3 @@
+NAMA=Muhammad Iqshan Syarifudin
+NIM=24110310059
+KELAS=Bisnis Digital 2B
